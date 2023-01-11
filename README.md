@@ -36,6 +36,12 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+## Future Improvements
+
+- What if a user discovers the site and wants to search for a specific game they have heard of?
+What if a user wants to use the nav bar at the top of the page to get to the Our Game section quickly?
+- How would you update the CSS of the site to make it more visually appealing?
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
